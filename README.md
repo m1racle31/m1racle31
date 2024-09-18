@@ -1,7 +1,6 @@
 👋 Hello, i'm Yoshua Augusta
 
 I'm a fresh graduate with a degree in Mathematics from Universitas Indonesia.
-I have a deep interest in Data and Machine Learning and am currently expanding my knowledge in Machine Learning and Artificial Intelligence.
 
 🌟 I’m interested in:
 - Data
